@@ -1,0 +1,12 @@
+G:\dotnet\Ecommerce\Catalogue\bin\Debug\net7.0\Catalogue.deps.json
+G:\dotnet\Ecommerce\Catalogue\bin\Debug\net7.0\Catalogue.dll
+G:\dotnet\Ecommerce\Catalogue\bin\Debug\net7.0\Catalogue.pdb
+G:\dotnet\Ecommerce\Catalogue\obj\Debug\net7.0\Catalogue.csproj.AssemblyReference.cache
+G:\dotnet\Ecommerce\Catalogue\obj\Debug\net7.0\Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\Ecommerce\Catalogue\obj\Debug\net7.0\Catalogue.AssemblyInfoInputs.cache
+G:\dotnet\Ecommerce\Catalogue\obj\Debug\net7.0\Catalogue.AssemblyInfo.cs
+G:\dotnet\Ecommerce\Catalogue\obj\Debug\net7.0\Catalogue.csproj.CoreCompileInputs.cache
+G:\dotnet\Ecommerce\Catalogue\obj\Debug\net7.0\Catalogue.dll
+G:\dotnet\Ecommerce\Catalogue\obj\Debug\net7.0\refint\Catalogue.dll
+G:\dotnet\Ecommerce\Catalogue\obj\Debug\net7.0\Catalogue.pdb
+G:\dotnet\Ecommerce\Catalogue\obj\Debug\net7.0\ref\Catalogue.dll

@@ -1,0 +1,12 @@
+G:\dotnet\Ecommerce\ShoppingCart\bin\Debug\net7.0\ShoppingCart.deps.json
+G:\dotnet\Ecommerce\ShoppingCart\bin\Debug\net7.0\ShoppingCart.dll
+G:\dotnet\Ecommerce\ShoppingCart\bin\Debug\net7.0\ShoppingCart.pdb
+G:\dotnet\Ecommerce\ShoppingCart\obj\Debug\net7.0\ShoppingCart.csproj.AssemblyReference.cache
+G:\dotnet\Ecommerce\ShoppingCart\obj\Debug\net7.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\Ecommerce\ShoppingCart\obj\Debug\net7.0\ShoppingCart.AssemblyInfoInputs.cache
+G:\dotnet\Ecommerce\ShoppingCart\obj\Debug\net7.0\ShoppingCart.AssemblyInfo.cs
+G:\dotnet\Ecommerce\ShoppingCart\obj\Debug\net7.0\ShoppingCart.csproj.CoreCompileInputs.cache
+G:\dotnet\Ecommerce\ShoppingCart\obj\Debug\net7.0\ShoppingCart.dll
+G:\dotnet\Ecommerce\ShoppingCart\obj\Debug\net7.0\refint\ShoppingCart.dll
+G:\dotnet\Ecommerce\ShoppingCart\obj\Debug\net7.0\ShoppingCart.pdb
+G:\dotnet\Ecommerce\ShoppingCart\obj\Debug\net7.0\ref\ShoppingCart.dll

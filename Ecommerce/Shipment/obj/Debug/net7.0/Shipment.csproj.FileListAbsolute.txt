@@ -1,0 +1,12 @@
+G:\dotnet\Ecommerce\Shipment\bin\Debug\net7.0\Shipment.deps.json
+G:\dotnet\Ecommerce\Shipment\bin\Debug\net7.0\Shipment.dll
+G:\dotnet\Ecommerce\Shipment\bin\Debug\net7.0\Shipment.pdb
+G:\dotnet\Ecommerce\Shipment\obj\Debug\net7.0\Shipment.csproj.AssemblyReference.cache
+G:\dotnet\Ecommerce\Shipment\obj\Debug\net7.0\Shipment.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\Ecommerce\Shipment\obj\Debug\net7.0\Shipment.AssemblyInfoInputs.cache
+G:\dotnet\Ecommerce\Shipment\obj\Debug\net7.0\Shipment.AssemblyInfo.cs
+G:\dotnet\Ecommerce\Shipment\obj\Debug\net7.0\Shipment.csproj.CoreCompileInputs.cache
+G:\dotnet\Ecommerce\Shipment\obj\Debug\net7.0\Shipment.dll
+G:\dotnet\Ecommerce\Shipment\obj\Debug\net7.0\refint\Shipment.dll
+G:\dotnet\Ecommerce\Shipment\obj\Debug\net7.0\Shipment.pdb
+G:\dotnet\Ecommerce\Shipment\obj\Debug\net7.0\ref\Shipment.dll

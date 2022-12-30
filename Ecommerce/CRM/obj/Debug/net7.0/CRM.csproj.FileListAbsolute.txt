@@ -1,0 +1,12 @@
+G:\dotnet\Ecommerce\CRM\bin\Debug\net7.0\CRM.deps.json
+G:\dotnet\Ecommerce\CRM\bin\Debug\net7.0\CRM.dll
+G:\dotnet\Ecommerce\CRM\bin\Debug\net7.0\CRM.pdb
+G:\dotnet\Ecommerce\CRM\obj\Debug\net7.0\CRM.csproj.AssemblyReference.cache
+G:\dotnet\Ecommerce\CRM\obj\Debug\net7.0\CRM.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\Ecommerce\CRM\obj\Debug\net7.0\CRM.AssemblyInfoInputs.cache
+G:\dotnet\Ecommerce\CRM\obj\Debug\net7.0\CRM.AssemblyInfo.cs
+G:\dotnet\Ecommerce\CRM\obj\Debug\net7.0\CRM.csproj.CoreCompileInputs.cache
+G:\dotnet\Ecommerce\CRM\obj\Debug\net7.0\CRM.dll
+G:\dotnet\Ecommerce\CRM\obj\Debug\net7.0\refint\CRM.dll
+G:\dotnet\Ecommerce\CRM\obj\Debug\net7.0\CRM.pdb
+G:\dotnet\Ecommerce\CRM\obj\Debug\net7.0\ref\CRM.dll
