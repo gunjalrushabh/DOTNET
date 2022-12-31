@@ -1,0 +1,12 @@
+G:\dotnet\DOTNET\Ecom2\Membership\bin\Debug\net7.0\Membership.deps.json
+G:\dotnet\DOTNET\Ecom2\Membership\bin\Debug\net7.0\Membership.dll
+G:\dotnet\DOTNET\Ecom2\Membership\bin\Debug\net7.0\Membership.pdb
+G:\dotnet\DOTNET\Ecom2\Membership\obj\Debug\net7.0\Membership.csproj.AssemblyReference.cache
+G:\dotnet\DOTNET\Ecom2\Membership\obj\Debug\net7.0\Membership.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\DOTNET\Ecom2\Membership\obj\Debug\net7.0\Membership.AssemblyInfoInputs.cache
+G:\dotnet\DOTNET\Ecom2\Membership\obj\Debug\net7.0\Membership.AssemblyInfo.cs
+G:\dotnet\DOTNET\Ecom2\Membership\obj\Debug\net7.0\Membership.csproj.CoreCompileInputs.cache
+G:\dotnet\DOTNET\Ecom2\Membership\obj\Debug\net7.0\Membership.dll
+G:\dotnet\DOTNET\Ecom2\Membership\obj\Debug\net7.0\refint\Membership.dll
+G:\dotnet\DOTNET\Ecom2\Membership\obj\Debug\net7.0\Membership.pdb
+G:\dotnet\DOTNET\Ecom2\Membership\obj\Debug\net7.0\ref\Membership.dll
