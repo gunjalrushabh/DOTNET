@@ -1,0 +1,12 @@
+G:\dotnet\DOTNET\Day5sln\Catalog\obj\Debug\net7.0\Catalog.csproj.AssemblyReference.cache
+G:\dotnet\DOTNET\Day5sln\Catalog\obj\Debug\net7.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\DOTNET\Day5sln\Catalog\obj\Debug\net7.0\Catalog.AssemblyInfoInputs.cache
+G:\dotnet\DOTNET\Day5sln\Catalog\obj\Debug\net7.0\Catalog.AssemblyInfo.cs
+G:\dotnet\DOTNET\Day5sln\Catalog\obj\Debug\net7.0\Catalog.csproj.CoreCompileInputs.cache
+G:\dotnet\DOTNET\Day5sln\Catalog\bin\Debug\net7.0\Catalog.deps.json
+G:\dotnet\DOTNET\Day5sln\Catalog\bin\Debug\net7.0\Catalog.dll
+G:\dotnet\DOTNET\Day5sln\Catalog\bin\Debug\net7.0\Catalog.pdb
+G:\dotnet\DOTNET\Day5sln\Catalog\obj\Debug\net7.0\Catalog.dll
+G:\dotnet\DOTNET\Day5sln\Catalog\obj\Debug\net7.0\refint\Catalog.dll
+G:\dotnet\DOTNET\Day5sln\Catalog\obj\Debug\net7.0\Catalog.pdb
+G:\dotnet\DOTNET\Day5sln\Catalog\obj\Debug\net7.0\ref\Catalog.dll
