@@ -1,0 +1,15 @@
+G:\dotnet\DOTNET\DelegateEvents\Tester\obj\Debug\net7.0\Tester.csproj.AssemblyReference.cache
+G:\dotnet\DOTNET\DelegateEvents\Tester\obj\Debug\net7.0\Tester.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\DOTNET\DelegateEvents\Tester\obj\Debug\net7.0\Tester.AssemblyInfoInputs.cache
+G:\dotnet\DOTNET\DelegateEvents\Tester\obj\Debug\net7.0\Tester.AssemblyInfo.cs
+G:\dotnet\DOTNET\DelegateEvents\Tester\obj\Debug\net7.0\Tester.csproj.CoreCompileInputs.cache
+G:\dotnet\DOTNET\DelegateEvents\Tester\bin\Debug\net7.0\Tester.exe
+G:\dotnet\DOTNET\DelegateEvents\Tester\bin\Debug\net7.0\Tester.deps.json
+G:\dotnet\DOTNET\DelegateEvents\Tester\bin\Debug\net7.0\Tester.runtimeconfig.json
+G:\dotnet\DOTNET\DelegateEvents\Tester\bin\Debug\net7.0\Tester.dll
+G:\dotnet\DOTNET\DelegateEvents\Tester\bin\Debug\net7.0\Tester.pdb
+G:\dotnet\DOTNET\DelegateEvents\Tester\obj\Debug\net7.0\Tester.dll
+G:\dotnet\DOTNET\DelegateEvents\Tester\obj\Debug\net7.0\refint\Tester.dll
+G:\dotnet\DOTNET\DelegateEvents\Tester\obj\Debug\net7.0\Tester.pdb
+G:\dotnet\DOTNET\DelegateEvents\Tester\obj\Debug\net7.0\Tester.genruntimeconfig.cache
+G:\dotnet\DOTNET\DelegateEvents\Tester\obj\Debug\net7.0\ref\Tester.dll

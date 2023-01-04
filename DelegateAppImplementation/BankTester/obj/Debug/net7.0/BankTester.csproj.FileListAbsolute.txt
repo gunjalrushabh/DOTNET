@@ -1,0 +1,15 @@
+G:\dotnet\DOTNET\DelegateAppImplementation\BankTester\obj\Debug\net7.0\BankTester.csproj.AssemblyReference.cache
+G:\dotnet\DOTNET\DelegateAppImplementation\BankTester\obj\Debug\net7.0\BankTester.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\DOTNET\DelegateAppImplementation\BankTester\obj\Debug\net7.0\BankTester.AssemblyInfoInputs.cache
+G:\dotnet\DOTNET\DelegateAppImplementation\BankTester\obj\Debug\net7.0\BankTester.AssemblyInfo.cs
+G:\dotnet\DOTNET\DelegateAppImplementation\BankTester\obj\Debug\net7.0\BankTester.csproj.CoreCompileInputs.cache
+G:\dotnet\DOTNET\DelegateAppImplementation\BankTester\bin\Debug\net7.0\BankTester.exe
+G:\dotnet\DOTNET\DelegateAppImplementation\BankTester\bin\Debug\net7.0\BankTester.deps.json
+G:\dotnet\DOTNET\DelegateAppImplementation\BankTester\bin\Debug\net7.0\BankTester.runtimeconfig.json
+G:\dotnet\DOTNET\DelegateAppImplementation\BankTester\bin\Debug\net7.0\BankTester.dll
+G:\dotnet\DOTNET\DelegateAppImplementation\BankTester\bin\Debug\net7.0\BankTester.pdb
+G:\dotnet\DOTNET\DelegateAppImplementation\BankTester\obj\Debug\net7.0\BankTester.dll
+G:\dotnet\DOTNET\DelegateAppImplementation\BankTester\obj\Debug\net7.0\refint\BankTester.dll
+G:\dotnet\DOTNET\DelegateAppImplementation\BankTester\obj\Debug\net7.0\BankTester.pdb
+G:\dotnet\DOTNET\DelegateAppImplementation\BankTester\obj\Debug\net7.0\BankTester.genruntimeconfig.cache
+G:\dotnet\DOTNET\DelegateAppImplementation\BankTester\obj\Debug\net7.0\ref\BankTester.dll
