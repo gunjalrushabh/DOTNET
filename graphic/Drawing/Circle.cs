@@ -1,5 +1,5 @@
 namespace Drawing;
-public class Circle:Shape{
+public class Circle:Shape,Iprintable{
 
 private Point Center{get;set;}
 private int Radii{get;set;}
@@ -19,6 +19,13 @@ public Circle(Point p,int r)
     {
         Console.WriteLine("( "+this.Center+" )"+"Radius: " +this.Radii+"   ," +this.Color);
         Type t=this.GetType();
-        Console.WriteLine("Shape is : "+t);
+        Console.WriteLine("Shape is : "+t.Name);
+    }
+
+    public void Print()
+    {
+        Type t= this.GetType();
+        Console.WriteLine("Shape: "+t.Name);
+       Console.WriteLine("( "+this.Center+" )"+"Radius: " +this.Radii+"   ," +this.Color);
     }
 }

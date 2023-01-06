@@ -1,5 +1,5 @@
 namespace Drawing;
-public class Line:Shape{
+public class Line:Shape,Iprintable{
 
 private Point Startpoint{get;set;}
 private Point Endpoint{get;set;}
@@ -17,8 +17,17 @@ public Line(Point p1,Point p2)
 }
     public override void Draw()
     {
-       Console.WriteLine("("+this.Startpoint+" ,"+this.Endpoint+" )");
+        Color c=(Color)2;
+        //this.Color=BLACK
+       Console.WriteLine("("+this.Startpoint+" ,"+this.Endpoint+" )"+c);
         Type t=this.GetType();
-        Console.WriteLine("Shape is : "+t);
+        Console.WriteLine("Shape is : "+t.Name);
+    }
+
+    public void Print()
+    {
+        Type t= this.GetType();
+        Console.WriteLine("Shape: "+t.Name);
+         Console.WriteLine("("+this.Startpoint+" ,"+this.Endpoint+" )"+this.Color);
     }
 }

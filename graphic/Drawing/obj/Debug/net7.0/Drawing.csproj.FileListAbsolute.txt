@@ -1,0 +1,12 @@
+E:\LocalRepository\my project\dotnetGit\DOTNET\graphic\Drawing\bin\Debug\net7.0\Drawing.deps.json
+E:\LocalRepository\my project\dotnetGit\DOTNET\graphic\Drawing\bin\Debug\net7.0\Drawing.dll
+E:\LocalRepository\my project\dotnetGit\DOTNET\graphic\Drawing\bin\Debug\net7.0\Drawing.pdb
+E:\LocalRepository\my project\dotnetGit\DOTNET\graphic\Drawing\obj\Debug\net7.0\Drawing.csproj.AssemblyReference.cache
+E:\LocalRepository\my project\dotnetGit\DOTNET\graphic\Drawing\obj\Debug\net7.0\Drawing.GeneratedMSBuildEditorConfig.editorconfig
+E:\LocalRepository\my project\dotnetGit\DOTNET\graphic\Drawing\obj\Debug\net7.0\Drawing.AssemblyInfoInputs.cache
+E:\LocalRepository\my project\dotnetGit\DOTNET\graphic\Drawing\obj\Debug\net7.0\Drawing.AssemblyInfo.cs
+E:\LocalRepository\my project\dotnetGit\DOTNET\graphic\Drawing\obj\Debug\net7.0\Drawing.csproj.CoreCompileInputs.cache
+E:\LocalRepository\my project\dotnetGit\DOTNET\graphic\Drawing\obj\Debug\net7.0\Drawing.dll
+E:\LocalRepository\my project\dotnetGit\DOTNET\graphic\Drawing\obj\Debug\net7.0\refint\Drawing.dll
+E:\LocalRepository\my project\dotnetGit\DOTNET\graphic\Drawing\obj\Debug\net7.0\Drawing.pdb
+E:\LocalRepository\my project\dotnetGit\DOTNET\graphic\Drawing\obj\Debug\net7.0\ref\Drawing.dll

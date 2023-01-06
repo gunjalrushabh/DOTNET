@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BankTester
-build_property.ProjectDir = G:\dotnet\DOTNET\DelegateAppImplementation\BankTester\
+build_property.ProjectDir = E:\LocalRepository\my project\dotnetGit\DOTNET\DelegateAppImplementation\BankTester\

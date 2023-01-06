@@ -13,3 +13,18 @@ G:\dotnet\DOTNET\DelegateAppImplementation\BankTester\obj\Debug\net7.0\refint\Ba
 G:\dotnet\DOTNET\DelegateAppImplementation\BankTester\obj\Debug\net7.0\BankTester.pdb
 G:\dotnet\DOTNET\DelegateAppImplementation\BankTester\obj\Debug\net7.0\BankTester.genruntimeconfig.cache
 G:\dotnet\DOTNET\DelegateAppImplementation\BankTester\obj\Debug\net7.0\ref\BankTester.dll
+E:\LocalRepository\my project\dotnetGit\DOTNET\DelegateAppImplementation\BankTester\bin\Debug\net7.0\BankTester.exe
+E:\LocalRepository\my project\dotnetGit\DOTNET\DelegateAppImplementation\BankTester\bin\Debug\net7.0\BankTester.deps.json
+E:\LocalRepository\my project\dotnetGit\DOTNET\DelegateAppImplementation\BankTester\bin\Debug\net7.0\BankTester.runtimeconfig.json
+E:\LocalRepository\my project\dotnetGit\DOTNET\DelegateAppImplementation\BankTester\bin\Debug\net7.0\BankTester.dll
+E:\LocalRepository\my project\dotnetGit\DOTNET\DelegateAppImplementation\BankTester\bin\Debug\net7.0\BankTester.pdb
+E:\LocalRepository\my project\dotnetGit\DOTNET\DelegateAppImplementation\BankTester\obj\Debug\net7.0\BankTester.csproj.AssemblyReference.cache
+E:\LocalRepository\my project\dotnetGit\DOTNET\DelegateAppImplementation\BankTester\obj\Debug\net7.0\BankTester.GeneratedMSBuildEditorConfig.editorconfig
+E:\LocalRepository\my project\dotnetGit\DOTNET\DelegateAppImplementation\BankTester\obj\Debug\net7.0\BankTester.AssemblyInfoInputs.cache
+E:\LocalRepository\my project\dotnetGit\DOTNET\DelegateAppImplementation\BankTester\obj\Debug\net7.0\BankTester.AssemblyInfo.cs
+E:\LocalRepository\my project\dotnetGit\DOTNET\DelegateAppImplementation\BankTester\obj\Debug\net7.0\BankTester.csproj.CoreCompileInputs.cache
+E:\LocalRepository\my project\dotnetGit\DOTNET\DelegateAppImplementation\BankTester\obj\Debug\net7.0\BankTester.dll
+E:\LocalRepository\my project\dotnetGit\DOTNET\DelegateAppImplementation\BankTester\obj\Debug\net7.0\refint\BankTester.dll
+E:\LocalRepository\my project\dotnetGit\DOTNET\DelegateAppImplementation\BankTester\obj\Debug\net7.0\BankTester.pdb
+E:\LocalRepository\my project\dotnetGit\DOTNET\DelegateAppImplementation\BankTester\obj\Debug\net7.0\BankTester.genruntimeconfig.cache
+E:\LocalRepository\my project\dotnetGit\DOTNET\DelegateAppImplementation\BankTester\obj\Debug\net7.0\ref\BankTester.dll

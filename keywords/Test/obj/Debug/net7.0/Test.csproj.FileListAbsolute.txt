@@ -1,0 +1,15 @@
+E:\LocalRepository\my project\dotnetGit\DOTNET\keywords\Test\bin\Debug\net7.0\Test.exe
+E:\LocalRepository\my project\dotnetGit\DOTNET\keywords\Test\bin\Debug\net7.0\Test.deps.json
+E:\LocalRepository\my project\dotnetGit\DOTNET\keywords\Test\bin\Debug\net7.0\Test.runtimeconfig.json
+E:\LocalRepository\my project\dotnetGit\DOTNET\keywords\Test\bin\Debug\net7.0\Test.dll
+E:\LocalRepository\my project\dotnetGit\DOTNET\keywords\Test\bin\Debug\net7.0\Test.pdb
+E:\LocalRepository\my project\dotnetGit\DOTNET\keywords\Test\obj\Debug\net7.0\Test.csproj.AssemblyReference.cache
+E:\LocalRepository\my project\dotnetGit\DOTNET\keywords\Test\obj\Debug\net7.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\LocalRepository\my project\dotnetGit\DOTNET\keywords\Test\obj\Debug\net7.0\Test.AssemblyInfoInputs.cache
+E:\LocalRepository\my project\dotnetGit\DOTNET\keywords\Test\obj\Debug\net7.0\Test.AssemblyInfo.cs
+E:\LocalRepository\my project\dotnetGit\DOTNET\keywords\Test\obj\Debug\net7.0\Test.csproj.CoreCompileInputs.cache
+E:\LocalRepository\my project\dotnetGit\DOTNET\keywords\Test\obj\Debug\net7.0\Test.dll
+E:\LocalRepository\my project\dotnetGit\DOTNET\keywords\Test\obj\Debug\net7.0\refint\Test.dll
+E:\LocalRepository\my project\dotnetGit\DOTNET\keywords\Test\obj\Debug\net7.0\Test.pdb
+E:\LocalRepository\my project\dotnetGit\DOTNET\keywords\Test\obj\Debug\net7.0\Test.genruntimeconfig.cache
+E:\LocalRepository\my project\dotnetGit\DOTNET\keywords\Test\obj\Debug\net7.0\ref\Test.dll
