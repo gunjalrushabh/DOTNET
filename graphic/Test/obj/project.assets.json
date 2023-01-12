@@ -1,26 +1,50 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "Drawing/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Drawing.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Drawing.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Drawing/1.0.0": {
+      "type": "project",
+      "path": "../Drawing/Drawing.csproj",
+      "msbuildProject": "../Drawing/Drawing.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "Drawing >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\dac\\.nuget\\packages\\": {}
+    "C:\\Users\\RUSHABH GUNJAL\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\dotnet\\DOTNET\\graphic\\Test\\Test.csproj",
+      "projectUniqueName": "E:\\LocalRepository\\my project\\dotnetGit\\DOTNET\\graphic\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "G:\\dotnet\\DOTNET\\graphic\\Test\\Test.csproj",
-      "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
-      "outputPath": "G:\\dotnet\\DOTNET\\graphic\\Test\\obj\\",
+      "projectPath": "E:\\LocalRepository\\my project\\dotnetGit\\DOTNET\\graphic\\Test\\Test.csproj",
+      "packagesPath": "C:\\Users\\RUSHABH GUNJAL\\.nuget\\packages\\",
+      "outputPath": "E:\\LocalRepository\\my project\\dotnetGit\\DOTNET\\graphic\\Test\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\RUSHABH GUNJAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,12 +52,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\LocalRepository\\my project\\dotnetGit\\DOTNET\\graphic\\Drawing\\Drawing.csproj": {
+              "projectPath": "E:\\LocalRepository\\my project\\dotnetGit\\DOTNET\\graphic\\Drawing\\Drawing.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

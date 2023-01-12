@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "G:\\dotnet\\DOTNET\\DelegateAppImplementation\\BankTester\\BankTester.csproj": {}
+    "E:\\LocalRepository\\my project\\dotnetGit\\DOTNET\\DelegateAppImplementation\\BankTester\\BankTester.csproj": {}
   },
   "projects": {
-    "G:\\dotnet\\DOTNET\\DelegateAppImplementation\\BankTester\\BankTester.csproj": {
+    "E:\\LocalRepository\\my project\\dotnetGit\\DOTNET\\DelegateAppImplementation\\BankTester\\BankTester.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\dotnet\\DOTNET\\DelegateAppImplementation\\BankTester\\BankTester.csproj",
+        "projectUniqueName": "E:\\LocalRepository\\my project\\dotnetGit\\DOTNET\\DelegateAppImplementation\\BankTester\\BankTester.csproj",
         "projectName": "BankTester",
-        "projectPath": "G:\\dotnet\\DOTNET\\DelegateAppImplementation\\BankTester\\BankTester.csproj",
-        "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
-        "outputPath": "G:\\dotnet\\DOTNET\\DelegateAppImplementation\\BankTester\\obj\\",
+        "projectPath": "E:\\LocalRepository\\my project\\dotnetGit\\DOTNET\\DelegateAppImplementation\\BankTester\\BankTester.csproj",
+        "packagesPath": "C:\\Users\\RUSHABH GUNJAL\\.nuget\\packages\\",
+        "outputPath": "E:\\LocalRepository\\my project\\dotnetGit\\DOTNET\\DelegateAppImplementation\\BankTester\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\RUSHABH GUNJAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

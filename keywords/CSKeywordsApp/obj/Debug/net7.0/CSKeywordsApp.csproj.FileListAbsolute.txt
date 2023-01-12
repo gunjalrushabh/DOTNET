@@ -1,0 +1,12 @@
+E:\LocalRepository\my project\dotnetGit\DOTNET\keywords\CSKeywordsApp\bin\Debug\net7.0\CSKeywordsApp.deps.json
+E:\LocalRepository\my project\dotnetGit\DOTNET\keywords\CSKeywordsApp\bin\Debug\net7.0\CSKeywordsApp.dll
+E:\LocalRepository\my project\dotnetGit\DOTNET\keywords\CSKeywordsApp\bin\Debug\net7.0\CSKeywordsApp.pdb
+E:\LocalRepository\my project\dotnetGit\DOTNET\keywords\CSKeywordsApp\obj\Debug\net7.0\CSKeywordsApp.csproj.AssemblyReference.cache
+E:\LocalRepository\my project\dotnetGit\DOTNET\keywords\CSKeywordsApp\obj\Debug\net7.0\CSKeywordsApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\LocalRepository\my project\dotnetGit\DOTNET\keywords\CSKeywordsApp\obj\Debug\net7.0\CSKeywordsApp.AssemblyInfoInputs.cache
+E:\LocalRepository\my project\dotnetGit\DOTNET\keywords\CSKeywordsApp\obj\Debug\net7.0\CSKeywordsApp.AssemblyInfo.cs
+E:\LocalRepository\my project\dotnetGit\DOTNET\keywords\CSKeywordsApp\obj\Debug\net7.0\CSKeywordsApp.csproj.CoreCompileInputs.cache
+E:\LocalRepository\my project\dotnetGit\DOTNET\keywords\CSKeywordsApp\obj\Debug\net7.0\CSKeywordsApp.dll
+E:\LocalRepository\my project\dotnetGit\DOTNET\keywords\CSKeywordsApp\obj\Debug\net7.0\refint\CSKeywordsApp.dll
+E:\LocalRepository\my project\dotnetGit\DOTNET\keywords\CSKeywordsApp\obj\Debug\net7.0\CSKeywordsApp.pdb
+E:\LocalRepository\my project\dotnetGit\DOTNET\keywords\CSKeywordsApp\obj\Debug\net7.0\ref\CSKeywordsApp.dll

@@ -1,0 +1,15 @@
+E:\LocalRepository\my project\dotnetGit\DOTNET\AtmAppDotnetDelegate\AtmTester\obj\Debug\net7.0\AtmTester.csproj.AssemblyReference.cache
+E:\LocalRepository\my project\dotnetGit\DOTNET\AtmAppDotnetDelegate\AtmTester\obj\Debug\net7.0\AtmTester.GeneratedMSBuildEditorConfig.editorconfig
+E:\LocalRepository\my project\dotnetGit\DOTNET\AtmAppDotnetDelegate\AtmTester\obj\Debug\net7.0\AtmTester.AssemblyInfoInputs.cache
+E:\LocalRepository\my project\dotnetGit\DOTNET\AtmAppDotnetDelegate\AtmTester\obj\Debug\net7.0\AtmTester.AssemblyInfo.cs
+E:\LocalRepository\my project\dotnetGit\DOTNET\AtmAppDotnetDelegate\AtmTester\obj\Debug\net7.0\AtmTester.csproj.CoreCompileInputs.cache
+E:\LocalRepository\my project\dotnetGit\DOTNET\AtmAppDotnetDelegate\AtmTester\bin\Debug\net7.0\AtmTester.exe
+E:\LocalRepository\my project\dotnetGit\DOTNET\AtmAppDotnetDelegate\AtmTester\bin\Debug\net7.0\AtmTester.deps.json
+E:\LocalRepository\my project\dotnetGit\DOTNET\AtmAppDotnetDelegate\AtmTester\bin\Debug\net7.0\AtmTester.runtimeconfig.json
+E:\LocalRepository\my project\dotnetGit\DOTNET\AtmAppDotnetDelegate\AtmTester\bin\Debug\net7.0\AtmTester.dll
+E:\LocalRepository\my project\dotnetGit\DOTNET\AtmAppDotnetDelegate\AtmTester\bin\Debug\net7.0\AtmTester.pdb
+E:\LocalRepository\my project\dotnetGit\DOTNET\AtmAppDotnetDelegate\AtmTester\obj\Debug\net7.0\AtmTester.dll
+E:\LocalRepository\my project\dotnetGit\DOTNET\AtmAppDotnetDelegate\AtmTester\obj\Debug\net7.0\refint\AtmTester.dll
+E:\LocalRepository\my project\dotnetGit\DOTNET\AtmAppDotnetDelegate\AtmTester\obj\Debug\net7.0\AtmTester.pdb
+E:\LocalRepository\my project\dotnetGit\DOTNET\AtmAppDotnetDelegate\AtmTester\obj\Debug\net7.0\AtmTester.genruntimeconfig.cache
+E:\LocalRepository\my project\dotnetGit\DOTNET\AtmAppDotnetDelegate\AtmTester\obj\Debug\net7.0\ref\AtmTester.dll

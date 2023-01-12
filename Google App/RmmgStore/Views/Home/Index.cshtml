@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Rushabh Gunjal</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<div>
+    <h2>My Bikes Collection</h2>
+    @{
+        List<string> bikelist=new List<string>();
+        bikelist.Add("Royal Enfield : Hunter");
+        bikelist.Add("Hayabusa");
+        bikelist.Add("Ducati : MotoGP Limited Edition");
+        bikelist.Add("Harley Davidson : Vrod");
+       <ol>
+        @foreach (string bobj in bikelist)
+            {
+          
+            <li>@bobj</li>
+         
+            }
+       </ol> 
+    }
+    
+</div>
+<div>
+    <img src="/images/Royal-Enfield-Hunter-350-featured-img1.jpg" width="600px" height="300px" >
+    <img src="/images/suzuki-hayabusa-2021-8b.jpg" width="600px" height="300px">
+    <img src="/images/2020-ducati-superleggera-v4-df.jpg" width="600px" height="300px">
+    <img src="/images/wp8864308.jpg" width="600px" height="300px">
+</div>
