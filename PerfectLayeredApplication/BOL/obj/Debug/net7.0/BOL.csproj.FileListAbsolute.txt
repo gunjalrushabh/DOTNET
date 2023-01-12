@@ -1,0 +1,12 @@
+G:\dotnet\PerfectLayeredApplication\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+G:\dotnet\PerfectLayeredApplication\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\PerfectLayeredApplication\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+G:\dotnet\PerfectLayeredApplication\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+G:\dotnet\PerfectLayeredApplication\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+G:\dotnet\PerfectLayeredApplication\BOL\bin\Debug\net7.0\BOL.deps.json
+G:\dotnet\PerfectLayeredApplication\BOL\bin\Debug\net7.0\BOL.dll
+G:\dotnet\PerfectLayeredApplication\BOL\bin\Debug\net7.0\BOL.pdb
+G:\dotnet\PerfectLayeredApplication\BOL\obj\Debug\net7.0\BOL.dll
+G:\dotnet\PerfectLayeredApplication\BOL\obj\Debug\net7.0\refint\BOL.dll
+G:\dotnet\PerfectLayeredApplication\BOL\obj\Debug\net7.0\BOL.pdb
+G:\dotnet\PerfectLayeredApplication\BOL\obj\Debug\net7.0\ref\BOL.dll

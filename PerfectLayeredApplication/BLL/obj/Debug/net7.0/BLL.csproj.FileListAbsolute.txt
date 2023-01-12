@@ -1,0 +1,17 @@
+G:\dotnet\PerfectLayeredApplication\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+G:\dotnet\PerfectLayeredApplication\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\PerfectLayeredApplication\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+G:\dotnet\PerfectLayeredApplication\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+G:\dotnet\PerfectLayeredApplication\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+G:\dotnet\PerfectLayeredApplication\BLL\bin\Debug\net7.0\BLL.deps.json
+G:\dotnet\PerfectLayeredApplication\BLL\bin\Debug\net7.0\BLL.dll
+G:\dotnet\PerfectLayeredApplication\BLL\bin\Debug\net7.0\BLL.pdb
+G:\dotnet\PerfectLayeredApplication\BLL\bin\Debug\net7.0\BOL.dll
+G:\dotnet\PerfectLayeredApplication\BLL\bin\Debug\net7.0\DAL.dll
+G:\dotnet\PerfectLayeredApplication\BLL\bin\Debug\net7.0\BOL.pdb
+G:\dotnet\PerfectLayeredApplication\BLL\bin\Debug\net7.0\DAL.pdb
+G:\dotnet\PerfectLayeredApplication\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+G:\dotnet\PerfectLayeredApplication\BLL\obj\Debug\net7.0\BLL.dll
+G:\dotnet\PerfectLayeredApplication\BLL\obj\Debug\net7.0\refint\BLL.dll
+G:\dotnet\PerfectLayeredApplication\BLL\obj\Debug\net7.0\BLL.pdb
+G:\dotnet\PerfectLayeredApplication\BLL\obj\Debug\net7.0\ref\BLL.dll

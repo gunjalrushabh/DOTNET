@@ -1,0 +1,19 @@
+@using BOL; 
+@{
+    ViewData["Title"] = "Index gallery Page";
+}
+
+<div>
+    <h1>Welcome</h1>
+    @{
+        List<Product> allproducts=(List<Product>)ViewData["products"];
+        
+    <ol>.....List Of All Product Spare Parts.....
+    @foreach (Product pitem in allproducts)
+    {
+         <li><b> @pitem.Pname </b></li>
+    }
+    </ol>
+    }
+
+</div>

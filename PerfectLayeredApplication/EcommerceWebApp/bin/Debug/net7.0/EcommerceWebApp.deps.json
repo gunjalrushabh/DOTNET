@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "EcommerceWebApp/1.0.0": {
+        "dependencies": {
+          "BLL": "1.0.0",
+          "BOL": "1.0.0"
+        },
+        "runtime": {
+          "EcommerceWebApp.dll": {}
+        }
+      },
+      "BLL/1.0.0": {
+        "dependencies": {
+          "BOL": "1.0.0",
+          "DAL": "1.0.0"
+        },
+        "runtime": {
+          "BLL.dll": {}
+        }
+      },
+      "BOL/1.0.0": {
+        "runtime": {
+          "BOL.dll": {}
+        }
+      },
+      "DAL/1.0.0": {
+        "dependencies": {
+          "BOL": "1.0.0"
+        },
+        "runtime": {
+          "DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EcommerceWebApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BOL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

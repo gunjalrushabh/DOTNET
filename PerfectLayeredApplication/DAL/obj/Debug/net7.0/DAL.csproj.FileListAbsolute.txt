@@ -1,0 +1,15 @@
+G:\dotnet\PerfectLayeredApplication\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+G:\dotnet\PerfectLayeredApplication\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\PerfectLayeredApplication\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+G:\dotnet\PerfectLayeredApplication\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+G:\dotnet\PerfectLayeredApplication\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+G:\dotnet\PerfectLayeredApplication\DAL\bin\Debug\net7.0\DAL.deps.json
+G:\dotnet\PerfectLayeredApplication\DAL\bin\Debug\net7.0\DAL.dll
+G:\dotnet\PerfectLayeredApplication\DAL\bin\Debug\net7.0\DAL.pdb
+G:\dotnet\PerfectLayeredApplication\DAL\bin\Debug\net7.0\BOL.dll
+G:\dotnet\PerfectLayeredApplication\DAL\bin\Debug\net7.0\BOL.pdb
+G:\dotnet\PerfectLayeredApplication\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+G:\dotnet\PerfectLayeredApplication\DAL\obj\Debug\net7.0\DAL.dll
+G:\dotnet\PerfectLayeredApplication\DAL\obj\Debug\net7.0\refint\DAL.dll
+G:\dotnet\PerfectLayeredApplication\DAL\obj\Debug\net7.0\DAL.pdb
+G:\dotnet\PerfectLayeredApplication\DAL\obj\Debug\net7.0\ref\DAL.dll
